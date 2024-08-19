@@ -18,7 +18,7 @@ cd Log_processor
 ### 2. Build the Docker Container
 Build the Docker container using the following command:
 ```bash
-docker build -t minimal-python-scp .
+sudo docker build -t minimal-python-scp .
 ```
 
 ### 3. Running the Docker Container

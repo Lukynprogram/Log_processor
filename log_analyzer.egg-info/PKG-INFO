@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: log_analyzer
+Version: 1.0.0
+Summary: EPAM - CLI tool for analyzing log files
+Author: Lukas Jonak
+Author-email: lukas00028@protonmail.com
+Requires-Python: >=3.11

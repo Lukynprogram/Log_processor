@@ -12,7 +12,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone git@github.com:Lukynprogram/Log_processor.git
+git clone -b master git@github.com:Lukynprogram/Log_processor.git
 cd Log_processor
 ```
 ### 2. Build the Docker Container
